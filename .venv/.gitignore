@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (large)
+datos/external/*.osm.pbf
+datos/external/*.graphml
+datos/raw/*.graphml
+*.zip
+
+# Logs
+logs/*.log
+
+# Backups
+backups/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
