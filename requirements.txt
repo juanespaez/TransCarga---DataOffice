@@ -1,27 +1,39 @@
-# ETL & Data processing
-pandas>=2.0
-geopandas>=0.14
-pyarrow>=14.0
+# Core
+pandas==2.1.3
+numpy==1.26.2
+requests==2.31.0
+python-dotenv==1.0.0
 
-# Database
-psycopg2-binary>=2.9
-sqlalchemy>=2.0
-redis>=5.0
+# Geospatial
+osmnx==1.5.1
+networkx==3.1
+geopandas==0.14.1
+shapely==2.0.2
+folium==0.15.1
+geopy==2.4.1
 
-# Geospatial & routing
-osmnx>=1.9
-folium>=0.15
-ortools>=9.8
+# Optimization
+ortools==9.8.3296
+scipy==1.11.4
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
 
 # API
-fastapi>=0.110
-uvicorn[standard]>=0.29
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.2
 
-# Notebooks
-jupyter>=1.0
-ipykernel>=6.0
+# Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9
+redis==5.0.1
 
-# Utils
-python-dotenv>=1.0
-requests>=2.31
-tqdm>=4.66
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Quality
+pytest==7.4.3
+black==23.11.0

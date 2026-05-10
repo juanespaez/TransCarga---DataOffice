@@ -1,5 +1,8 @@
 [project]
 name = "transcarga-dataoffice"
 version = "0.1.0"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = []
+
+[tool.project]
+# Dependencies are managed in requirements.txt
