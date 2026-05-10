@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm / JetBrains IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data — raw files (large, not versioned)
+datos/raw/
+datos/external/
+!datos/raw/.gitkeep
+!datos/external/.gitkeep
+
+# Logs
+logs/*.log
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+*.whl
+*.tar.gz
