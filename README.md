@@ -138,7 +138,7 @@ transcarga-digital/
 | Lenguaje | **Python** | Unifica backend + datos + IA en un solo lenguaje. Ecosistema enorme para ciencia de datos. |
 | Backend API | **FastAPI** | Ligero, rápido, documentación Swagger automática. Mismo lenguaje que el stack de datos. |
 | Data Lake (prod) | **AWS S3 / Azure ADLS** | Escalable, barato (~$50-100 USD/mes), acepta cualquier formato. |
-| Procesamiento (prod) | **Colab** | Python + ML en un solo lugar sin necesidad de DevOps. |
+| Procesamiento (prod) | **Databricks** | SQL + Python + ML en un solo lugar sin necesidad de DevOps. |
 | BD (prototipo) | **PostgreSQL + PostGIS** | Datos geoespaciales nativos. Ideal para prototipo de rutas. |
 | Cache | **Redis** | Acceso rápido a matrices de distancia/tiempo precalculadas. |
 | Optimización | **Google OR-Tools** | Open source, escalable, bien documentado para VRP. |
