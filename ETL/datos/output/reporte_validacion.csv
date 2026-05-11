@@ -1,0 +1,5 @@
+Dataset,Registros,Nulos,Duplicados,Estado
+Clientes,200,0,0,✓ OK
+Vehículos,85,0,0,✓ OK
+Matriz Distancias,52x52,0,-,✓ OK
+Matriz Tiempos,52x52,0,-,✓ OK

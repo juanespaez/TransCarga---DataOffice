@@ -1,0 +1,3 @@
+id_bodega,nombre,ciudad,latitud,longitud,capacidad_max
+B001,Bodega Medellin,Medellin,6.2518,-75.5636,10000
+B002,Bodega Cali,Cali,3.4516,-76.532,8000

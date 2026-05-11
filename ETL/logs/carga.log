@@ -1,0 +1,55 @@
+2026-05-11 12:15:34,020 - INFO - Environment de carga configurado
+2026-05-11 12:15:34,254 - INFO - clientes: 200 registros
+2026-05-11 12:15:34,261 - INFO - vehiculos: 85 registros
+2026-05-11 12:15:34,265 - INFO - trafico: 1176 registros
+2026-05-11 12:15:34,267 - INFO - peajes: 6 registros
+2026-05-11 12:15:34,269 - INFO - combustible: 15 registros
+2026-05-11 12:15:34,271 - INFO - matriz_distancias: 52 registros
+2026-05-11 12:15:34,272 - INFO - matriz_tiempos: 52 registros
+2026-05-11 12:15:34,310 - INFO - Dataset optimización creado: 200 clientes, 68 vehículos
+2026-05-11 12:15:34,347 - INFO - Configuración del modelo creada
+2026-05-11 12:15:34,373 - INFO - Estadísticas generadas
+2026-05-11 12:15:34,396 - INFO - Validación completada
+2026-05-11 12:15:34,408 - INFO - ETL completado exitosamente
+2026-05-11 12:26:27,908 - INFO - Environment de carga configurado
+2026-05-11 12:26:27,959 - INFO - clientes: 200 registros
+2026-05-11 12:26:27,964 - INFO - vehiculos: 85 registros
+2026-05-11 12:26:27,975 - INFO - trafico: 1176 registros
+2026-05-11 12:26:27,978 - INFO - peajes: 6 registros
+2026-05-11 12:26:27,979 - INFO - combustible: 15 registros
+2026-05-11 12:26:27,981 - INFO - matriz_distancias: 52 registros
+2026-05-11 12:26:27,984 - INFO - matriz_tiempos: 52 registros
+2026-05-11 12:26:28,019 - INFO - Dataset optimización creado: 200 clientes, 68 vehículos
+2026-05-11 12:26:28,036 - INFO - Configuración del modelo creada
+2026-05-11 12:26:28,059 - INFO - Estadísticas generadas
+2026-05-11 12:26:28,093 - INFO - Validación completada
+2026-05-11 12:26:28,107 - INFO - ETL completado exitosamente
+2026-05-11 13:09:51,574 - INFO - Environment de carga configurado
+2026-05-11 13:09:51,607 - INFO - clientes: 200 registros
+2026-05-11 13:09:51,609 - INFO - vehiculos: 85 registros
+2026-05-11 13:09:51,612 - INFO - trafico: 1176 registros
+2026-05-11 13:09:51,613 - INFO - peajes: 6 registros
+2026-05-11 13:09:51,618 - INFO - combustible: 1881 registros
+2026-05-11 13:09:51,622 - INFO - matriz_distancias: 52 registros
+2026-05-11 13:09:51,623 - INFO - matriz_tiempos: 52 registros
+2026-05-11 13:11:06,021 - INFO - Environment de carga configurado
+2026-05-11 13:11:06,068 - INFO - clientes: 200 registros
+2026-05-11 13:11:06,068 - INFO - vehiculos: 85 registros
+2026-05-11 13:11:06,072 - INFO - trafico: 1176 registros
+2026-05-11 13:11:06,073 - INFO - peajes: 6 registros
+2026-05-11 13:11:06,079 - INFO - combustible: 1881 registros
+2026-05-11 13:11:06,081 - INFO - matriz_distancias: 52 registros
+2026-05-11 13:11:06,083 - INFO - matriz_tiempos: 52 registros
+2026-05-11 13:13:02,018 - INFO - Environment de carga configurado
+2026-05-11 13:13:02,053 - INFO - clientes: 200 registros
+2026-05-11 13:13:02,055 - INFO - vehiculos: 85 registros
+2026-05-11 13:13:02,058 - INFO - trafico: 1176 registros
+2026-05-11 13:13:02,059 - INFO - peajes: 6 registros
+2026-05-11 13:13:02,065 - INFO - combustible: 1881 registros
+2026-05-11 13:13:02,066 - INFO - matriz_distancias: 52 registros
+2026-05-11 13:13:02,069 - INFO - matriz_tiempos: 52 registros
+2026-05-11 13:13:02,090 - INFO - Dataset optimización creado: 200 clientes, 64 vehículos
+2026-05-11 13:13:02,099 - INFO - Configuración del modelo creada
+2026-05-11 13:13:02,110 - INFO - Estadísticas generadas
+2026-05-11 13:13:02,131 - INFO - Validación completada
+2026-05-11 13:13:02,138 - INFO - ETL completado exitosamente

@@ -1,0 +1,10 @@
+{
+  "distancia_total_km": 530.02,
+  "clientes_atendidos": 20,
+  "carga_total_kg": 10000,
+  "vehiculos_utilizados": 5,
+  "costo_combustible_cop": 861289.0,
+  "costo_conductor_cop": 378589.0,
+  "costo_total_cop": 1239878.0,
+  "tiempo_resolucion_seg": 60.001525
+}

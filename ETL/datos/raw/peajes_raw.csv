@@ -1,0 +1,7 @@
+nombre,ubicacion,departamento,latitud,longitud,tarifa_automovil,tarifa_camion,tarifa_motocicleta
+Peaje Medellin Norte,Autopista Medellin-Bogota,Antioquia,6.4,-75.45,13043,32607,6521
+Peaje Medellin Sur,Autopista Medellin-Bogota,Antioquia,6.15,-75.58,8974,22435,4487
+Peaje Entrada Cali,Autopista Cali-Bogota,Valle del Cauca,3.45,-76.5,9325,23312,4662
+Peaje Salida Cali,Autopista Cali-Bogota,Valle del Cauca,3.55,-76.4,14932,37330,7466
+Peaje Tulua,Autopista Cali-Bogota,Valle del Cauca,4.05,-76.2,8983,22457,4491
+Peaje Armenia,Autopista Cafe,Quindio,4.55,-75.7,8888,22220,4444

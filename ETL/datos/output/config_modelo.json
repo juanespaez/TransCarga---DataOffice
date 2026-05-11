@@ -1,0 +1,32 @@
+{
+  "proyecto": "Optimizacion de Rutas TransCarga S.A.S.",
+  "version": "1.0",
+  "fecha_creacion": "2026-05-11 13:13:02",
+  "parametros_vrp": {
+    "tipo_modelo": "CVRP_TW",
+    "objetivo": "minimizar_costo_total",
+    "restricciones": [
+      "capacidad_vehiculo",
+      "ventana_tiempo_cliente",
+      "horario_trabajo_conductor",
+      "visita_unica"
+    ]
+  },
+  "parametros_generales": {
+    "hora_inicio_operaciones": 6,
+    "hora_fin_operaciones": 20,
+    "max_paradas_ruta": 15,
+    "tiempo_servicio_minutos": 15
+  },
+  "costos": {
+    "precio_combustible_galon": 9293.692185007974,
+    "costo_mantenimiento_km": 50,
+    "costo_conductor_hora": 25000,
+    "penalizacion_tarde_minuto": 1000
+  },
+  "estadisticas": {
+    "total_clientes": 200,
+    "total_vehiculos": 85,
+    "vehiculos_disponibles": 64
+  }
+}
