@@ -1,0 +1,15 @@
+2026-05-11 13:06:10,524 - INFO - Environment configurado para extraccion real
+2026-05-11 13:06:11,978 - INFO - DIVIPOLA: 1121 registros descargados
+2026-05-11 13:06:15,933 - INFO - Combustible: 10000 registros descargados
+2026-05-11 13:06:16,990 - ERROR - Parque Automotor: Error 403
+2026-05-11 13:06:18,248 - INFO - Terminales: 192 registros descargados
+2026-05-11 13:08:28,938 - INFO - Environment configurado para extraccion real
+2026-05-11 13:08:30,841 - INFO - DIVIPOLA: 1121 registros descargados
+2026-05-11 13:08:34,154 - INFO - Combustible: 10000 registros descargados
+2026-05-11 13:08:35,532 - ERROR - Parque Automotor: Error 403
+2026-05-11 13:08:36,760 - INFO - Terminales: 192 registros descargados
+2026-05-11 13:08:36,856 - INFO - Clientes generados: 200
+2026-05-11 13:08:36,918 - INFO - Vehiculos generados: 85
+2026-05-11 13:08:36,965 - INFO - Trafico generado: 1176
+2026-05-11 13:08:36,991 - INFO - Peajes generados: 6
+2026-05-11 13:08:37,334 - INFO - Extraccion completada exitosamente

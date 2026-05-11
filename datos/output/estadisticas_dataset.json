@@ -1,0 +1,28 @@
+{
+  "clientes": {
+    "total": 200,
+    "medellin": 1,
+    "cali": 0,
+    "capacidad_promedio_kg": 343.75,
+    "valor_pedido_promedio": 2448013.0,
+    "ventana_tiempo_promedio_horas": 11.0
+  },
+  "vehiculos": {
+    "total": 85,
+    "disponibles": 64,
+    "capacidad_total_kg": 52000,
+    "tipos": {
+      "Automovil": 27,
+      "Camioneta": 27,
+      "Motocicleta": 12,
+      "Camion": 11,
+      "Bus": 8
+    }
+  },
+  "distancias": {
+    "puntos": 52,
+    "min_km": 0.68,
+    "max_km": 593.62,
+    "promedio_km": 177.43
+  }
+}
