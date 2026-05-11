@@ -1,0 +1,34 @@
+﻿# TransCarga ETL - Requirements
+# Python 3.10+
+
+# Manipulación de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Peticiones HTTP
+requests>=2.31.0
+
+# Optimización
+ortools>=9.8.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+folium>=0.15.0
+
+# Dashboard
+streamlit>=1.28.0
+streamlit-folium>=0.20.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+nbconvert>=7.0.0
+
+# Utilidades
+python-dateutil>=2.8.0
+pytz>=2023.0
+
+# Testing (opcional)
+pytest>=7.0.0

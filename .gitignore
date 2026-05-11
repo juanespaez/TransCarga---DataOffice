@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/*.log
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Data (opcional - descomentar si no se quieren subir datos)
+# datos/raw/*.csv
+# datos/processed/*.csv
+
+# Keep results
+!datos/results/*.png
+!datos/results/*.csv
+!datos/results/*.json
+
+# Temporary files
+*.tmp
+*.bak
+*.bakup
+
+# Microsoft Office
+~$*.xlsx
+~$*.pptx
+~$*.docx
