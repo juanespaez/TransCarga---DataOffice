@@ -54,7 +54,8 @@ TransCarga_ETL/
 │   ├── 01_extraccion.ipynb    # Extracción de datos de APIs
 │   ├── 02_transformacion.ipynb # Limpieza y transformación
 │   ├── 03_carga.ipynb         # Generación de archivos para modelo
-│   └── 04_optimizacion.ipynb  # Modelo CVRP con OR-Tools
+│   ├── 04_optimizacion.ipynb  # Modelo CVRP con OR-Tools
+│   └── 05_eda.ipynb           # Análisis Exploratorio de Datos
 │
 ├── 📁 datos/                  # Datos del proyecto
 │   ├── 📁 raw/                # Datos originales (7 archivos)
